@@ -1,6 +1,6 @@
 # PARTE 1
 
-La finalidad de esta apartado será implementar la aplicación "administración remota de Windows Server" (WAC) en un cliente Windows 11, a través de los siguientes pasos:
+La finalidad de esta apartado será implementar la aplicación "administración remota de Windows Server" (WAC) en un cliente Windows 11, con ella obtendremos los daton en tiempo real del Windows Server, a través de los siguientes pasos:
 
 ## 1. Acceso a Windows Admin Center
 
@@ -54,5 +54,6 @@ Puerto :9090
 ![](capturas/UT4_P1_11.png)
 
 Y hemos entrado
+
 
 ![](capturas/UT4_P1_12.png)
