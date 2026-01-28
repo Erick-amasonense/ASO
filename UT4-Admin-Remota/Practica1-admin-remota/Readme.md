@@ -11,7 +11,7 @@ Puerto :6600
 
 Accedemos a la aplicación a través del punto de acceso, este nos llevará automáticamente en el navegador a https:/nombredelw11:6600 
 (otra opción para entrar a través del navegador es: https:/localhost:6600)
-Iniciamos sesión con un usuario local/AD
+Iniciamos sesión con un usuario local
 
 ![](capturas/UT4_P1_2.png)
 
@@ -58,4 +58,5 @@ Y hemos entrado
 
 
 ![](capturas/UT4_P1_12.png)
+
 
