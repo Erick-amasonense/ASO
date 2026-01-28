@@ -5,7 +5,7 @@ La finalidad de esta apartado será implementar la aplicación "administración 
 ## 1. Acceso a Windows Admin Center
 Instalamos WAC
 
-![](capturas/UT4_P1_1.png)
+![](capturas/wac_instaladador.png)
 
 Puerto :6600
 
@@ -13,27 +13,27 @@ Accedemos a la aplicación a través del punto de acceso, este nos llevará auto
 (otra opción para entrar a través del navegador es: https:/localhost:6600)
 Iniciamos sesión con un usuario local
 
-![](capturas/UT4_P1_2.png)
+![](capturas/wac_acceso.png)
 
 Y ya estamos dentro
 
-![](capturas/UT4_P1_3.png)
+![](capturas/wac_panel-admin.png)
 
 ## 2. Administración remota del Windows Server
 
 Lo agregamos manualmente
 
-![](capturas/UT4_P1_4.png)
-![](capturas/UT4_P1_5.png)
+![](capturas/wac_añado-server.png)
+![](capturas/wac_panel-server-añadido.png)
 
 ### Información del sistema:
-![](capturas/UT4_P1_6.png)
+![](capturas/wac_servidor1.png)
 
 ### CPU y memoria
-![](capturas/UT4_P1_7.png)
+![](capturas/wac_servidor2.png)
 
 ### Servicios
-![](capturas/UT4_P1_8.png)
+![](capturas/wac_servidor3.png)
 
 # PARTE 2
 
@@ -44,19 +44,19 @@ La finalidad de esta apartado será implementar el servicio de monitorización w
 Instalamos el servicio y comprobamos que este activo
 Puerto :9090
 
-![](capturas/UT4_P1_9.png)
+![](capturas/cockpit_servicio.png)
 
 ## 2. Creación de usuario remoto para administración
 
-![](capturas/UT4_P1_10.png)
+![](capturas/cockpit_usuario.png)
 
 ## 3. acceso remoto desde windows 11
 
-![](capturas/UT4_P1_11.png)
+![](capturas/cockpit_acceso.png)
 
 Y hemos entrado
 
+![](capturas/cockpit_monitorización.png)
 
-![](capturas/UT4_P1_12.png)
 
 
