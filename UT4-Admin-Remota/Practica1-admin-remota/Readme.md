@@ -3,6 +3,7 @@
 La finalidad de esta apartado será implementar la aplicación "administración remota de Windows Server" (WAC) en un cliente Windows 11, con ella obtendremos los daton en tiempo real del Windows Server, a través de los siguientes pasos:
 
 ## 1. Acceso a Windows Admin Center
+Instalamos WAC
 
 ![](capturas/UT4_P1_1.png)
 
@@ -57,3 +58,4 @@ Y hemos entrado
 
 
 ![](capturas/UT4_P1_12.png)
+
