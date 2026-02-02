@@ -84,6 +84,8 @@ Entramos desde nuestro windows11 a "conexión a servidor remoto" y establecemos 
 ## 4. Acceso denegado a otro usuario. Captura del intento fallido con un usuario distinto de remoto_rdp. 
 
 Introducco una cuenta diferente "erick"
+
 ![](capturas/UT4_P2_24_RDP_Conexion_Denegada1.png)
 
 ![](capturas/UT4_P2_25_RDP_Conexion_Denegada2.png)
+
